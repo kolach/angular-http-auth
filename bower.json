@@ -1,0 +1,14 @@
+{
+  "name": "angular-http-auth",
+  "version": "0.0.1",
+  "main": "http-auth-interceptor.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "repository": {
+  "type": "git",
+    "url": "git@github.com:kolach/angular-http-auth.git"
+  }
+}
